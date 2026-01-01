@@ -22,6 +22,6 @@ int loaduser(const char *name, U *out) {
         }
     }
     fclose(fp);
-    return 0;
+    return ;
     //i have changed 
 }
